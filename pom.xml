@@ -11,7 +11,7 @@
 	<groupId>in.ashokit</groupId>
 	<artifactId>01-JRTP-MiniProject-PhoneBookApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>01-JRTP-MiniProject-PhoneBookApp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
